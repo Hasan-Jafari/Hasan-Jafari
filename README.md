@@ -1,30 +1,28 @@
-## Hi there 👋
-
-<h1 align="center">Hey, I'm Hassan 👋</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Developer-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Django-REST%20Framework-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+# Hassan
+Backend Developer
 
 ---
 
-## 🚀 About Me
-- 🔧 Backend Developer متخصص در **Django REST Framework**
-- 🗄️ کار با **PostgreSQL**, **Redis**, **Docker**, **GitHub**, **Ubuntu/Linux**
-- 💡 عاشق ساختن API های تمیز، سریع و مقیاس‌پذیر
-- 🌑 Dark theme enjoyer
-- 🌌 عاشق فضا و طبیعت
+## About
+Focused on building clean, scalable and reliable backend services.  
+Experienced with DRF, PostgreSQL, Redis, Docker and Linux environments.
 
 ---
 
-## 🛠 Tech Stack
-```bash
-Backend: Python, Django, DRF  
-Database: PostgreSQL, SQLite  
-Cache/Queue: Redis  
-DevOps: Docker, Docker Compose  
-Tools: Git, GitHub, Linux (Ubuntu)
+## Tech Stack
+Python • Django REST Framework  
+PostgreSQL • Redis  
+Docker • Ubuntu/Linux  
+Git • CI/CD (Basic)
+
+---
+
+## Featured Projects
+• DRF Enterprise Boilerplate  
+• Redis Task Queue (Async)  
+• Dockerized Microservices Demo  
+
+---
+
+## Contact
+Email: your.email@example.com
