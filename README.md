@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Hasan-Jafari/Hasan-Jafari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm Hassan 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Developer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-REST%20Framework-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🔧 Backend Developer متخصص در **Django REST Framework**
+- 🗄️ کار با **PostgreSQL**, **Redis**, **Docker**, **GitHub**, **Ubuntu/Linux**
+- 💡 عاشق ساختن API های تمیز، سریع و مقیاس‌پذیر
+- 🌑 Dark theme enjoyer
+- 🌌 عاشق فضا و طبیعت
+
+---
+
+## 🛠 Tech Stack
+```bash
+Backend: Python, Django, DRF  
+Database: PostgreSQL, SQLite  
+Cache/Queue: Redis  
+DevOps: Docker, Docker Compose  
+Tools: Git, GitHub, Linux (Ubuntu)
