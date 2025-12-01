@@ -1,28 +1,28 @@
-# Hassan
-Backend Developer
-
+Hey there! Im Hasan Jafari 
 ---
+Back-end developer.
 
 ## About
-Focused on building clean, scalable and reliable backend services.  
-Experienced with DRF, PostgreSQL, Redis, Docker and Linux environments.
+Developing scalable APIs with integrated architecture using the Django (DRF).
 
 ---
 
-## Tech Stack
-Python • Django REST Framework  
-PostgreSQL • Redis  
-Docker • Ubuntu/Linux  
-Git • CI/CD (Basic)
+## Skills
+• Python
+• Django REST Framework
+• PostgreSQL
+• Redis
+• Docker
+• Ubuntu/Linux  
+• GitHub
 
 ---
 
-## Featured Projects
-• DRF Enterprise Boilerplate  
-• Redis Task Queue (Async)  
-• Dockerized Microservices Demo  
+## Projects
+• To-Do
+• Auth
 
 ---
 
-## Contact
-Email: your.email@example.com
+## Gmail
+Gmail: byhasanj@gmail.com
