@@ -26,7 +26,8 @@ Developing scalable APIs with integrated architecture using the Django (DRF).
 
 ## Projects
 • To-Do ➣ Task management API.
-• Auth ➢ Full authentication with JWT, OTP verification and password setting after receiving JWT Token
+
+• Auth ➢ Full authentication with JWT, OTP verification and password setting after receiving JWT Token.
 
 ---
 
