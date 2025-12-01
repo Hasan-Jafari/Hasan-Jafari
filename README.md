@@ -1,4 +1,4 @@
-Hey there! Im Hasan Jafari 
+Hey there! I'm Hasan Jafari 👋
 ---
 Back-end developer.
 
@@ -9,11 +9,17 @@ Developing scalable APIs with integrated architecture using the Django (DRF).
 
 ## Skills
 • Python
+
 • Django REST Framework
+
 • PostgreSQL
+
 • Redis
+
 • Docker
+
 • Ubuntu/Linux  
+
 • GitHub
 
 ---
